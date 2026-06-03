@@ -29,11 +29,11 @@ Employee emails manager manually.
 
 ## With ServiceNow
 
-Form submitted
-Approval triggered
-Tasks created automatically
-Notifications sent
-Status tracked automatically
+* Form submitted
+* Approval triggered
+* Tasks created automatically
+* Notifications sent
+* Status tracked automatically
 
 
 ## INTERNAL WORKING
@@ -45,10 +45,10 @@ TABLES : “Everything in ServiceNow is stored in tables.”
 
 Examples:
 
-Incident table
-User table
-Change table
-Asset table
+* Incident table
+* User table
+* Change table
+* Asset table
 
 
 Example Image:
@@ -74,10 +74,10 @@ Now understand how real developers work.
 
 “When employee joins:
 
-manager approval needed
-laptop task create
-ID card task create
-HR notification send”
+* manager approval needed
+* laptop task create
+* ID card task create
+* HR notification send”
 
 
 
